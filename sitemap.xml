@@ -2,106 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/exercises/14-extract-functions.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.057Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/exercises/2-debug.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.061Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/exercises/12-dynamic-ui.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.057Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/exercises/3-add-filter.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.061Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/exercises/6-reactive-event.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.061Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/exercises/8-navsets.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.061Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/exercises/13-ui-functions.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.057Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/example_datascience_project/notebooks/01_run_model.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.057Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/slides/ui-customization.html</loc>
-    <lastmod>2024-04-17T12:47:09.295Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.065Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/slides/getting-started.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.061Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/index.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.061Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/docs/ui-customization.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.057Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/docs/getting-started.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.057Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/docs/reactivity.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.057Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/docs/reactive-side-effects.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.057Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/import-helpers.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.061Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/slides/reactivity.html</loc>
-    <lastmod>2024-04-17T12:47:09.295Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.065Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/slides/workflow-best-practices.html</loc>
-    <lastmod>2024-04-17T12:47:09.295Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.065Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/slides/modern-pythonic-toolkit.html</loc>
-    <lastmod>2024-04-17T12:47:09.295Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.065Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/exercises/11-value-boxes.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.057Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/exercises/1-hello-world.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.057Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/exercises/7-reactive-effects.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.061Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/exercises/5-reactivity.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.061Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/exercises/4-add-plot.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.061Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/exercises/9-cards.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.061Z</lastmod>
   </url>
   <url>
     <loc>https://Appsilon.github.io/shinyconf-pyshiny-workshop/exercises/10-layout.html</loc>
-    <lastmod>2024-04-17T12:47:09.287Z</lastmod>
+    <lastmod>2024-04-24T07:59:01.057Z</lastmod>
   </url>
 </urlset>
